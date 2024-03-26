@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Nassim Toumi 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Nassim Toumi 👋
+I am Nassim Toumi 👋
 [![Linkedin Badge](https://img.shields.io/badge/-nassimtoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nassimtoumi/)](https://www.linkedin.com/in/nassimtoumi/)
 [![Gmail Badge](https://img.shields.io/badge/-nassim.toumi@esprit.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nassim.toumi@esprit.com)](mailto:nassim.toumi@esprit.com) 
 
