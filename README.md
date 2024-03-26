@@ -31,7 +31,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=nassimtoumi&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
-<h3 align="left">Support:</h3>
+<h3 align="left">🫂❤️ Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nassimtoumi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nassimtoumi" /></a></p><br><br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nassimtoumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
