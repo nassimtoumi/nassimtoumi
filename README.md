@@ -2,7 +2,7 @@
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/nassimtoumi/ 
 
-<h1 align="center">Hi 👋, I'm Nassim Toumi</h1>
+<h1 align="center">Hi, I'm Nassim Toumi ✨ </h1>
 <h3 align="center">AI Engineer • Programmer • Graphic Designer • Intelligent Network Engineer</h3>
 
 
