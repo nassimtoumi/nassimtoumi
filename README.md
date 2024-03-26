@@ -23,7 +23,7 @@
 - Design <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNxaXZ0dW50cGQ1d3R4YzY2OTR4MTF6bzhib2F3aWxneHBscTZzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MChBLdDI6XH36cmb3L/giphy.gif" width="30">
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-- Cryptocurrency <img src="https://giphy.com/embed/MChBLdDI6XH36cmb3L" width="30"> 
+- Cryptocurrency <img src="https://media.giphy.com/media/LukAHGCMfxMbK/giphy.gif" width="30">
   
 ### :zap: Github Stats
 <p>
