@@ -6,7 +6,7 @@
 <h3 align="center">AI Engineer • Programmer • Graphic Designer • Intelligent Network Engineer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nassimtoumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nassimtoumi" height="30" width="40" /></a>
 <a href="https://fb.com/nassim.toumi2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nassim.toumi2" height="30" width="40" /></a>
