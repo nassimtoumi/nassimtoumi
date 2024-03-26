@@ -21,7 +21,7 @@
 ### Things I love:
 
 - Cryptocurrency <img src="https://media.giphy.com/media/LukAHGCMfxMbK/giphy.gif" width="30">
-- Design <img src="https://media.giphy.com/media/MChBLdDI6XH36cmb3L/giphy.gif" width="30">  
+- Design <img src="https://media.giphy.com/media/SYLJJ8qFpeT9xNqxj5/giphy.gif" width="30">  
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   
